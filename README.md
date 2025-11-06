@@ -9,7 +9,5 @@ For work I'm doing on behalf of my employer, see [@mcmasn-amzn](https://github.c
 📫 How to reach me:
 
 * X: [@natemcmaster](https://twitter.com/natemcmaster)
-* Bluesky: [@natemcmaster.bsky.social](https://bsky.app/profile/natemcmaster.bsky.social)
 * Open an issue on the project
 
-Pronouns: he/him
